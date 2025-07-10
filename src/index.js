@@ -1,2 +1,2 @@
 console.log('index.js');
-comsole.log('version 1');
+comsole.log('version 12');
